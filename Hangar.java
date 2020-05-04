@@ -1,4 +1,4 @@
-public class Hangar extends Vehicule{
+public class Hangar{
 
     public Hangar(String arg){
         super();

@@ -1,8 +1,5 @@
 public class Hangar{
 
-    public Hangar(String arg){
-        super();
-    }
         
 
     public static void main(String[] args){
